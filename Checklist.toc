@@ -2,7 +2,7 @@
 ## Title: Checklist
 ## Notes: Shows a custom checklist on key events (login, death, etc.)
 ## Author: Hase
-## Version: 0.1.0
+## Version: 1.0
 ## SavedVariables: ChecklistDB
 ## SavedVariablesPerCharacter: ChecklistCharDB
 
