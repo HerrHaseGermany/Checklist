@@ -1,0 +1,12 @@
+## Interface: 11503
+## Title: Checklist
+## Notes: Shows a custom checklist on key events (login, death, etc.)
+## Author: Hase
+## Version: 0.1.0
+## SavedVariables: ChecklistDB
+## SavedVariablesPerCharacter: ChecklistCharDB
+
+Checklist.lua
+ChecklistUI.lua
+ChecklistMinimap.lua
+ChecklistOptions.lua
